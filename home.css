@@ -1,0 +1,157 @@
+
+body{
+    width: 99%;
+    height: auto;
+    margin-top: 0px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.sp1 {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    width: 100%;
+    padding: 6px;zzd
+    height: auto;
+    
+   
+
+}
+.pr{
+    position: fixed;
+    width: 100%; 
+    transition: top 0.3s;
+}
+.sp1 a{
+    text-decoration: none;
+
+}
+.nv {
+    background-color: rgb(73, 73, 73);
+    overflow: hidden;
+    width: 100%;
+    padding: 6px;
+    opacity: 0.9;
+   
+}
+
+ .nv a {
+    text-decoration: none;
+    color: white;
+    padding: 14px 16px;
+    font-family: rockwell;   
+
+}
+.nv a:hover{
+    color: rgba(255, 166, 0, 0.653);
+
+}
+.nv a.active{
+   border-bottom: solid rgb(255, 255, 255) 3px;
+
+}
+
+.ul1 {
+    margin-right: 2%;
+}
+li {
+    display: inline;
+}
+img{
+    width: 80px;
+    height: auto;
+    /* margin-left: 8%;
+    max-width: 200px;
+    height: auto; */
+}
+.img1 {
+    text-align: center;
+    width: 101%;
+    padding: 0%;
+    margin-bottom: 0%;
+
+}
+
+.dn {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(252, 126, 0);
+    font-family: rockwell;
+    margin-left: 2%;
+    font-size: 20px;
+    animation-name: test;
+    animation-duration: 1s;
+    animation-delay: 0s;
+}
+
+.dn2 {
+    position: absolute;
+    top: 45%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin-left: 15%;
+    font-family: rockwell;
+    font-size: 40px;
+    margin-left: 2%;
+    font-weight: 20px;
+    animation-name: test;
+    animation-duration: 2s;
+    animation-delay: 0s;
+  
+}
+.dn3 {
+    position: absolute;
+    width: 40%;
+    top: 64%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-family: rockwell;
+    margin-left: 13%;
+    font-size: 15px;
+    animation-name: test;
+    animation-duration: 3s;
+    animation-delay: 0s;
+}
+@keyframes test {
+    0% { margin-top: 40%; }
+    100% {margin-bottom: 100%; }
+  }
+  .ani{
+    width: 100%;
+    height: 0px;
+    margin-bottom: 0%;
+  }
+  .butt1 {
+    position:relative;
+    background-color: rgb(255, 145, 0);
+    color: white;
+    border-radius: 2px;
+    padding: 10px;
+    font-family:rockwell;
+    font-size: 15px;
+    border: 0px;
+    bottom: 430px;
+	left: 95px;
+    transform: translate(-50%, -50%);
+    animation-name: test;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    
+}
+
+.butt1 a {
+    color: white;
+    text-decoration: none;
+}
+.dx2{
+    background-color: rgb(255, 145, 0);
+    width: 95%;
+    padding: 40px;
+    height: 10px;
+    margin-top: 0px;
+    
+   
+}

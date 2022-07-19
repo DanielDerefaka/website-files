@@ -1,0 +1,146 @@
+.img1{
+    width: 20%;
+    margin-left: 40%;
+}
+.tp{
+    width: 40%;
+    padding: 10%;
+    margin-left: 20%;
+    border:solid black 7px;
+}
+.dv{
+    margin-left: 10%;
+}
+.input1{
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+    margin-bottom: 2%;
+}
+.input2{
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+.lb3{
+    font-family: rockwell;
+    font-size: 20px;
+    padding:0%;
+    margin-left: 0%;
+    
+}
+.lb4{
+    font-family: rockwell;
+    font-size: 20px;
+    padding:3%;
+    margin-left: 8%;
+    
+}
+.lb5{
+    font-family: rockwell;
+    font-size: 20px;
+    padding:1%;
+    margin-left:0%;
+    color: black;
+    margin-right: 2%;
+    
+}
+.input3{
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+    margin-bottom: 2%;
+  
+}
+.input5{
+    border-radius: 2%;
+    padding: 0;
+    width: 10%;
+    margin-bottom: 2%;
+    color: black;
+  
+}
+.lb{
+    font-family: rockwell;
+    font-size: 20px;
+    padding: 2%;
+    
+}
+.input6{
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    margin-top: 3%;
+}
+.input7{
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+    margin-bottom: 2%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.lba{
+    font-family: rockwell;
+    font-size: 20px;
+    padding: 0%;
+    margin-left: 5%;
+    margin-right: 0%;
+    
+}
+.lba1{
+    font-family: rockwell;
+    font-size: 20px;
+    padding: 0%;
+    margin-left: 11%;
+    margin-right: 0%;
+    
+}
+.lba2{
+    font-family: rockwell;
+    font-size: 20px;
+    padding: 0%;
+    margin-left: 6%;
+    margin-right: 0%;
+    
+}
+.input8{
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+    margin-bottom:2%;
+    margin-left: 0%;
+}
+.lb8{
+    font-family: rockwell;
+    font-size: 20px;
+    padding:0%;
+    margin-left:6%;
+    margin-right: 0%;
+}
+.ld9{
+/* margin-left: 20px; */
+/* width: 100px; */
+
+}
+.butt{
+    border: solid black 5px;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 270px;
+    margin-top: 10px;
+    width: 100px;
+    padding: 10px;
+
+}
+.butt a{
+    font-family: motion picture;
+    text-decoration: none;
+color: white;
+padding: 10px;
+font-size: 20px;
+}
